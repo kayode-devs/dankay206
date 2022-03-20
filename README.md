@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @dankay206
+- 👋 Hi, I’m @Kayode
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning front end development
 - 📫 How to reach me ; Gmail: danielkayode222@gmail.com
 
 <!---
